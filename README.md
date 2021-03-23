@@ -1,3 +1,3 @@
 # Team Test
 
-A test for team.
+A test repo for team.
